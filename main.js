@@ -5,7 +5,7 @@
 
 var courseApi= "http://localhost:3000/courses";
 
-function start(){
+function  start(){
     getCourses(rederCourses);
     handlerCreate();
 }
